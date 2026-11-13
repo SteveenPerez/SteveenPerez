@@ -1,10 +1,10 @@
+<!-- Banner Superior Animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=0,10,20,30,40&height=180&section=header&text=¡Hola,%20Mundo!%20👋%20Soy%20Steveen&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnólogo%20ADSO%20|%20Desarrollador%20Full-Stack&descSize=16&descAlignY=60" width="100%" />
+</div>
+
 <div align="center">
   
-  # ¡Hola! Soy Steveen Pérez Polania 👋
-  ### Desarrollador de Software Integral | Tecnólogo ADSO 
-  
-  *Construyendo arquitecturas robustas, bases de datos eficientes y código limpio desde Palermo, Huila 🇨🇴*
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
 
@@ -32,17 +32,22 @@ Soy un desarrollador apasionado por la ingeniería de software con formación en
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  ### Frontend
+  ### Frontend & Herramientas
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-  ### Herramientas & Entorno
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![XAMPP](https://img.shields.io/badge/Xampp-F37623.svg?style=for-the-badge&logo=xampp&logoColor=white)
 
+</div>
+
+<br/>
+
+<!-- Banner Animado de Tecnologías (Carrusel / Skills) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,java,postgres,mysql,html,css,js,git,docker,vscode,xampp&theme=dark" />
 </div>
 
 ---
