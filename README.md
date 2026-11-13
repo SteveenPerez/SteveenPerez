@@ -1,6 +1,6 @@
-<!-- Banner Superior Animado -->
+<!-- Banner Superior Profesional -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=0,10,20,30,40&height=180&section=header&text=¡Hola,%20Mundo!%20👋%20Soy%20Steveen&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnólogo%20ADSO%20|%20Desarrollador%20Full-Stack&descSize=16&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&section=header&text=Steveen%20Pérez%20Polania&fontSize=32&fontColor=58a6ff&fontAlignY=38&desc=Tecnólogo%20en%20Análisis%20y%20Desarrollo%20de%20Software%20(ADSO)&descSize=14&descColor=8b949e&descAlignY=62&border=0,0,30,0&borderColor=30363d" width="100%" />
 </div>
 
 <div align="center">
