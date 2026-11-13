@@ -70,8 +70,10 @@ Soy un desarrollador apasionado por la ingeniería de software con formación en
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SteveenPerez&show_icons=true&theme=radium&hide_border=true&title_color=0077B5" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveenPerez&layout=compact&theme=radium&hide_border=true&title_color=0077B5" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteveenPerez&show_icons=true&theme=radium&hide_border=true&title_color=0077B5&v=1)](https://github.com/SteveenPerez)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveenPerez&layout=compact&theme=radium&hide_border=true&title_color=0077B5&v=1)](https://github.com/SteveenPerez)
+
 </div>
 
 <br/>
