@@ -71,8 +71,7 @@ Soy un desarrollador apasionado por la ingeniería de software con formación en
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteveenPerez&show_icons=true&theme=radium&hide_border=true&title_color=0077B5&v=1)](https://github.com/SteveenPerez)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveenPerez&layout=compact&theme=radium&hide_border=true&title_color=0077B5&v=1)](https://github.com/SteveenPerez)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SteveenPerez&theme=radium&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/SteveenPerez)
 
 </div>
 
